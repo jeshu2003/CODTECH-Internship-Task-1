@@ -95,18 +95,4 @@ python calculator.py
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and create a pull request. You can also report issues or suggest features by opening an issue in the repository.
-
-## Screenshot
-![Calculator Layout] (\Layout.png)
-
-![Arithmetic Operations](\Arithmetic Operations.png)
-
-![Other Calculations](\Medium Based Mathematical Operations.png)
-
-![Differential and Integral Calculus Operations](\Differential and Integral Calculus)
-
-![Relational Operations](\Relational Operations.png)
-
-![Matrix Calculations](\Matrix Operations.png)
-
 ---
