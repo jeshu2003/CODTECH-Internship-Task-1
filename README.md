@@ -1,9 +1,12 @@
 **Name:** JESHU DENZIL DEVE.M
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DS8521
+
 **Domain:** PYTHON PROGRAMMING
+
 **Duration:** SEPT TO OCT 2024
-Here's a more detailed and professional README file content for your Scientific Calculator project:
 
 ---
 
