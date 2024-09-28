@@ -86,16 +86,15 @@ python calculator.py
 ### Relational Expressions
 - Enter relational expressions to compare two values.
 
-## Examples
-- **Basic Calculation**: Input `3 + 5` → Output: `8`
-- **Derivative**: Input `x**2` → Output: `2*x`
-- **Integral**: Input `x**2` → Output: `(1/3)*x**3 + C`
-- **Matrix Input**: 
-    ```
-    1 2 3; 4 5 6; 7 8 9
-    ```
-    (For Matrix A) 
+## User Interface
+The following image shows the user interface of the Scientific Calculator:
 
-## Contributing
-Contributions are welcome! If you would like to contribute to this project, please fork the repository and create a pull request. You can also report issues or suggest features by opening an issue in the repository.
+![Calculator Screenshot](/layout.png)
+![Calculator Screenshot](/ArithmeticOperations.png)
+![Calculator Screenshot](/LogsFactorial.png)
+![Calculator Screenshot](/DifferentialandIntegralCalculus.png)
+![Calculator Screenshot](/RelationalOperations.png)
+![Calculator Screenshot](/MatrixOperations.png)
+The interface allows users to input expressions, calculate derivatives and integrals, and perform matrix operations.
+
 ---
